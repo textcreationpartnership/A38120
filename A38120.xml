@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall ordinances of the Lords &amp; Commons assembled in Parliament concerning the sale of bishops-lands.</title>
+            <title>Proceedings. 1646-11-30</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38120</idno>
+            <idno type="STC">Wing E2292A</idno>
+            <idno type="STC">ESTC R215020</idno>
+            <idno type="EEBO-CITATION">99827021</idno>
+            <idno type="PROQUEST">99827021</idno>
+            <idno type="VID">31433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1883:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall ordinances of the Lords &amp; Commons assembled in Parliament concerning the sale of bishops-lands.</title>
+                  <title>Proceedings. 1646-11-30</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R. Cotes for John Bellamy at the three golden Lions in Cornhill, near the Royall Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Early works to 1800.</term>
+               <term>Church lands --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:31433:1" rendition="simple:additions"/> SEVERALL ORDINANCES OF THE LORDS &amp; COMMONS Aſſembled in PARLIAMENT: Concerning the Sale of Bishops-Lands.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Cotes</hi> for <hi>John Bellamy</hi> at the three golden Lions in <hi>Cornhill,</hi> near the <hi>Royall Exchange,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div n="30 November 1646" type="ordinance">
+            <pb facs="tcp:31433:2"/>
+            <pb n="1" facs="tcp:31433:2"/>
+            <head>
+               <date>30 <hi>Novembr.</hi> 1646.</date>
+            </head>
+            <head type="sub">An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament for explanation and better putting in execution the late Ordinance, Entituled, <hi>An Ordinance of the Lords and Commons aſſembled in Parliament, For appointing the ſale of Biſhops Lands for the uſe of the Common-wealth.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled <note place="margin">Col. <hi>Manwa<g ref="char:EOLhyphen"/>ring</hi> to aſcer<g ref="char:EOLhyphen"/>tain the princi<g ref="char:EOLhyphen"/>pall and inte<g ref="char:EOLhyphen"/>reſt of Monies, Plate, &amp;c. ad<g ref="char:EOLhyphen"/>vanced.</note> in Parliament do hereby Declare and Ordain, That Colonell <hi>Robert Man<g ref="char:EOLhyphen"/>waring</hi> appointed to be Regiſter Ac<g ref="char:EOLhyphen"/>comptant by the former Ordinance for the ſale of Biſhops Lands, is, and be hereby authorized upon the Receipts or Certifi<g ref="char:EOLhyphen"/>cates given by the former Treaſurers Receivers or Collectors of Mony, Plate, Horſe, furniture or Arms advanced upon the Publick Faith, to aſcertain the Principall and Intereſt thereof; and that his Certifi<g ref="char:EOLhyphen"/>cate <note place="margin">And upon his Certificate the Treaſurers to receive the Money, and give Receipts.</note> to the Treaſurers appointed by the ſaid former Ordinance, ſhall be a ſufficient Voucher for them to proceed thereupon to the receiving of the Money, and giving their Receipts according to the former <note place="margin">Twenty ſhil<g ref="char:EOLhyphen"/>lings per day allowed to the Treaſurers Clerks for a year.</note> Ordinance: And that Twenty ſhillings <hi>per diem</hi> ſhal be allowed to the Treaſurers for their Clerks and Tellers, the ſaid allowance to continue for a year, and to be diſtributed among them according to the diſcretion of the ſaid Treaſurers. And that all other <note place="margin">And all other charges inci<g ref="char:EOLhyphen"/>dent to the Treaſury, to be allowed by the Committee hereafter na<g ref="char:EOLhyphen"/>med,</note> charges incident to the Treaſury, which ſhall be diſ<g ref="char:EOLhyphen"/>charged and paid by the ſaid Treaſurers, ſhall bee allowed to them by the Committee hereafter na<g ref="char:EOLhyphen"/>med,
+<pb n="2" facs="tcp:31433:3"/> or any five of them. And that the Comptrol<g ref="char:EOLhyphen"/>ler appointed by the ſaid former Ordinance, ſhall <note place="margin">The Comp<g ref="char:EOLhyphen"/>troller to give acknowledg<g ref="char:EOLhyphen"/>ment thereof.</note> upon the weekly account given unto him by the ſaid Treaſurers, give a receipt or acknowledgment there<g ref="char:EOLhyphen"/>of in writing under his, or his Deputies hands to the ſaid Treaſurers for their juſtification therein. And further, that the certificate of the Commiſſaries and
+<note place="margin">Certificate of the Commiſſa<g ref="char:EOLhyphen"/>ries for Horſes ſhall bee accep<g ref="char:EOLhyphen"/>ted.</note> others authorized for the liſting of horſes, furniture, or Arms, who have power to give the publick Faith for the ſame, ſhall be accepted and allowed for as good and ſufficient as the Receipts or Certificates of the Treaſurers, Collectors or Receivers of Mony or Plate. And for the ſettling and determining of any further doubt which may ariſe concerning the <note place="margin">For determi<g ref="char:EOLhyphen"/>ning of doubts concerning the validity of any Warrant made to the Treaſu<g ref="char:EOLhyphen"/>rers, a Com<g ref="char:EOLhyphen"/>mittee of Par<g ref="char:EOLunhyphen"/>liament is appointed.</note> validity of any warrant made by the Truſtees of the <hi>Biſhops Lands</hi> to the ſaid Treaſurers for the iſſuing out of any Money, That the Earl of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> Earl of <hi>Kent,</hi> Earl of
+<hi>Rutland,</hi> Earl of <hi>Pem<g ref="char:EOLhyphen"/>brook,</hi> Earl of <hi>Lincoln,</hi> Earl of
+<hi>Nottingham,</hi> Earl of <hi>Suffolk,</hi> Earl of <hi>Salisbury,</hi> Earl of
+<hi>Warwick,</hi> Earl of <hi>Denbigh,</hi> Earl of <hi>Middleſex,</hi> Earl of
+<hi>Mancheſter,</hi> Earl of <hi>Mulgrave,</hi> Earl of <hi>Stamford,</hi> Viſcount
+<hi>He<g ref="char:EOLhyphen"/>reford,</hi> Viſcount <hi>Say and Seale,</hi> Lord <hi>Berkley,</hi> Lord <hi>Dacres,</hi> Lord <hi>Wharton,</hi> Lord <hi>Willoughby,</hi> Lord <hi>North,</hi> Lord <hi>Hunſdon,</hi> Lord
+<hi>Mountague,</hi> Lord <hi>Gray</hi> of <hi>Warke,</hi> Lord <hi>Roberts,</hi> Lord
+<hi>Maynard,</hi> Lord <hi>Howard,</hi> and Lord <hi>Bruce.</hi> Mr. <hi>Hollis,</hi> Mr.
+<hi>Francis Allen,</hi> Sir <hi>Philip Stapleton,</hi> Mr. <hi>Iohn Aſh,</hi> Sir <hi>Iohn Clotworthy,</hi> Sir <hi>Symonds D'ewes,</hi> Mr. <hi>Walter Long,</hi> Sir <hi>Iohn Temple,</hi> Sir <hi>William Lewis,</hi> Sir <hi>William Spring,</hi> Sir <hi>Iohn Hobart,</hi> Col.
+<hi>Harvey,</hi> Mr. <hi>Got,</hi> Mr. Recorder, Sir <hi>Hen. Vane</hi> ſenior, Mr.
+<hi>Leigh,</hi> Mr. <hi>Reynolds,</hi> Mr. <hi>Tate,</hi> Sir <hi>Iohn Evelin</hi> of
+<hi>Surrey,</hi>
+               <pb n="3" facs="tcp:31433:3"/> Mr. <hi>Roll,</hi> Sir <hi>Samuel Roll,</hi> Mr. <hi>Bond,</hi> Mr.
+<hi>Ball,</hi> Mr. <hi>Ni<g ref="char:EOLhyphen"/>coll,</hi> Mr. <hi>Wilſon,</hi> Mr. <hi>Blackiſton,</hi> Mr.
+<hi>Pierpoint,</hi> Sir <hi>Peter Wentworth,</hi> Sir <hi>Iohn Curſon,</hi> Sir <hi>Walter Erle,</hi> Sir <hi>Robert Harley,</hi> Mr. <hi>Crew,</hi> Sir <hi>Gregory Norton,</hi> Lievtenant Generall <hi>Cromwell,</hi> Sir <hi>Robert Pye,</hi> Sir <hi>Edward Hungerford,</hi> Mr.
+<hi>Knightly;</hi> Sir <hi>Iohn Bur<g ref="char:EOLhyphen"/>goyne,</hi> Mr. <hi>Rous,</hi> Mr. <hi>Strode,</hi> Sir
+<hi>Anthony Irby,</hi> Mr. <hi>Humphrey Edwards,</hi> Mr. <hi>Drake,</hi> Mr. <hi>Prideaux,</hi> Mr. Alderman <hi>Atkin,</hi> Sir <hi>Thomas Soame,</hi> Alderman <hi>Pennington,</hi> Mr.
+<hi>Vaſſall,</hi> Colonel <hi>Ven,</hi> or any five of them ſhall be, and are hereby conſtituted a Com<g ref="char:EOLhyphen"/>mittee of Parliament for the purpoſes aforeſaid, and ſhall have power and authority to hear and deter<g ref="char:EOLhyphen"/>mine the ſame in caſe the ſaid Truſtees or Treaſu<g ref="char:EOLhyphen"/>rers ſhall deſire it. And that a warrant under any Five of the hands of the ſaid Committee ſhall be a ſufficient authority to them, and every of them to proceed accordingly in the execution of the ſaid Ordinance. And it is hereby laſtly Declared and <note place="margin">All perſons, as well thoſe who have formerly lent upon the Publick Faith, as others ſhall have the ſame repaid with Intereſt.</note> Ordained by the authority aforeſaid, That all per<g ref="char:EOLhyphen"/>ſons, aſwell thoſe who have lent upon the publick Faith, as thoſe who have that ſhall advance or lend any ſum of Money for the purpoſes in the ſaid Or<g ref="char:EOLhyphen"/>dinance mentioned, untill the 200000 <hi>l.</hi> intended by the ſaid Ordinance to be raiſed ſhall be brought in, ſhall have the ſame ſecurity for the repayment thereof, together with intereſt for the ſame, after the rate of Eight <hi>per centum,</hi> as thoſe who having for<g ref="char:EOLhyphen"/>merly lent upon the publick Faith as aforeſaid, and do now lend upon the ſaid Ordinance are to have.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div n="15 March 1646" type="ordinance">
+            <pb n="4" facs="tcp:31433:4"/>
+            <head>
+               <date>
+                  <hi>Die <g ref="char:V">Ʋ</g>eneris,</hi> 15 <hi>Martii,</hi> 1646.</date>
+            </head>
+            <head type="sub">An Ordinance of the Lords and Commons aſſembled in Parliament, For the leſſening of the number of the Truſtees for the ſale of the <hi>BISHOPS-LANDS.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by vertue of an Ordinance of the Lords and Commons in this preſent Par<g ref="char:EOLhyphen"/>liament
+<note place="margin">Recitall of the Ordinance veſting the Biſhops-Land in the Truſtees.</note> aſſembled, made the 9 day of <hi>Octo<g ref="char:EOLhyphen"/>ber, Anno Dom.</hi> 1646. All Counties Palatine, Ho<g ref="char:EOLhyphen"/>nors, Mannors, Lordſhips, Scites, Circuits, Pre<g ref="char:EOLhyphen"/>cincts, Caſtles, Granges, Meſſuages, Mills, Lands, Tenements, Medows, Paſtures, Parſonages appro<g ref="char:EOLhyphen"/>priate, Tithes, Oblations, Obventions, Penſions, Portions of Tithes, Parſonages, Vicarages, Chur<g ref="char:EOLhyphen"/>ches, Chappels, Advowſons, Donatives, Nominati<g ref="char:EOLhyphen"/>ons, Rights of Patronages and Preſentations, Parks, Woods, Rents, Reverſions, Services, An<g ref="char:EOLhyphen"/>nuities, Franchiſes, Liberties, Priviledges, Immu<g ref="char:EOLhyphen"/>nities, Rights of actions and entry, Intereſt, Titles of entry, Conditions, Commons-Court, Courts-Leete, and Courts-Baron, and all other Poſſeſſions and Hereditaments whatſoever, with all and every of their appurtenances of what nature or quality ſoever they be which then were, or at any time within ten years before the beginning of this pre<g ref="char:EOLhyphen"/>ſent Parliament were belonging to any Archbiſhop or Biſhop within this Kingdom of <hi>England</hi> or Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> or which they or any of them had
+<pb n="5" facs="tcp:31433:4"/> held and enjoyed in the right of their Archbiſho<g ref="char:EOLhyphen"/>pricks or Biſhopricks, Dignities, Offices or Places reſpectively, with all Charters, Deeds, Books of Accompts, Rolls, and other Writings whatſoever concerning the ſame belonging unto them were veſted and ſettled in the reall and actuall poſſeſſion and ſeiſin of <hi>Thomas Adams</hi> Alderman, then Lord Major of the City of <hi>London,</hi> Sir <hi>George Clarke</hi> Knight,
+<hi>Iohn Langham</hi> Alderman, and <hi>Iohn Iones</hi> among others in the ſaid Ordinance named, and alſo by the ſaid Ordinance, and by other Ordinan<g ref="char:EOLhyphen"/>ces ſince made in purſuance thereof, or for the ex<g ref="char:EOLhyphen"/>plaining or executing thereof the ſaid Truſtees are authorized and required to act and execute divers Acts and things concerning the premiſes. And whereas the ſaid <hi>Thomas Adams,</hi> Sir <hi>George Clarke,</hi> 
+               <note place="margin">Recitall of the four Truſtees which deſired to bee diſchar<g ref="char:EOLhyphen"/>ged.</note> 
+               <hi>Iohn Langham,</hi> and <hi>Iohn Iones</hi> have humbly deſired to be diſcharged of the ſaid Truſt, becauſe they can<g ref="char:EOLhyphen"/>not conſtantly attend and execute the ſame by rea<g ref="char:EOLhyphen"/>ſon of their other neceſſary occaſions: The ſaid
+<note place="margin">It is Ordained that the ſaid Four Truſtees ſhall be no longer ſeiſed.</note> Lords and Commons do hereby Ordain, That the ſaid <hi>Thomas Adams,</hi> Sir
+<hi>George Clarke, Iohn Lan<g ref="char:EOLhyphen"/>gham,</hi> and <hi>Iohn Iones,</hi> and every of them ſhall bee from henceforth no longer poſſeſſed, ſeiſed, or intereſſed of, or in the Premiſſes, or any of them, or any part or parcell of them: But that the ſeiſin, <note place="margin">But that the ſeiſin ſhall be out of them.</note> poſſeſſion and intereſt thereof, or thereunto, ſhall be from henceforth wholly and abſolutely out of them and every of them; And that they, and <note place="margin">And they diſ<g ref="char:EOLhyphen"/>charged of the Truſts.</note> every of them ſhall be from henceforth wholly diſ<g ref="char:EOLhyphen"/>charged of the ſaid Truſts to all intents and pur<g ref="char:EOLhyphen"/>poſes whatſoever; and ſhall not from henceforth act or execute any power or authority, act or thing
+<pb n="6" facs="tcp:31433:5"/> whatſoever by vertue of the firſt recited Ordi<g ref="char:EOLhyphen"/>nance, or any other Ordinance or Ordinances afore<g ref="char:EOLhyphen"/>ſaid. And that all and every the premiſſes, and <note place="margin">And that the Premiſes ſhall from hence<g ref="char:EOLhyphen"/>forth be veſted in the remai<g ref="char:EOLhyphen"/>ning Truſtees.</note> every part and parcell thereof ſhall from hence<g ref="char:EOLhyphen"/>forth be veſted and ſetled, adjudged and deemed to be, and ſhall be wholly and onely in the reall and actuall poſſeſſion and ſeiſin of Sir <hi>Iohn Wollaſton</hi> Knight, and the other remaining Truſtees whoſe names are expreſſed in the ſaid firſt recited Ordi<g ref="char:EOLhyphen"/>nance, and the Surveyors and Survivors of them, their Heires and Aſſignes as fully and abſolutely to all intents and purpoſes, as if the ſaid <hi>Thomas Adams,</hi> Sir <hi>George Clarke, Iohn Langham,</hi> and <hi>Iohn Iones</hi> had not been at all named in the firſt recited Ordinance, nor in any other of the ſaid Ordinances, and as if the ſaid Sir <hi>Iohn Wollaſton,</hi> and the other remaining Truſtees onely had been named therein. And the ſaid Sir <hi>Iohn Wollaſton,</hi> and the other re<g ref="char:EOLhyphen"/>maining
+<note place="margin">And the re<g ref="char:EOLhyphen"/>maining Tru<g ref="char:EOLhyphen"/>ſtees, or any Five of them from hence<g ref="char:EOLhyphen"/>forth to act in as ample man<g ref="char:EOLhyphen"/>ner as all or any of the Truſtees might have done.</note> Truſtees, or any Five or more of them ſhall from henceforth act and execute all the pow<g ref="char:EOLhyphen"/>ers and authorities, acts and things whatſoever, which by the firſt recited Ordinance, or any other of the aforeſaid Ordinances are appointed to bee acted and executed by all the Truſtees named in the firſt recited Ordinance, or by any part of them, in as full and ample manner to all intents and pur<g ref="char:EOLhyphen"/>poſes whatſoever, as all the Truſtees named in the firſt recited Ordinance, or any part of them, might, and ought to have done any thing contai<g ref="char:EOLhyphen"/>ned in the firſt recited Ordinance, or in any o<g ref="char:EOLhyphen"/>ther of the aforeſaid Ordinances to the contra<g ref="char:EOLhyphen"/>ry in any wiſe notwithſtanding. And it is fur<g ref="char:EOLhyphen"/>ther hereby Declared and Ordained, That the
+<pb n="7" facs="tcp:31433:5"/> ſaid Sir <hi>Iohn Wollaſton</hi> and the other remaining <note place="margin">And the re<g ref="char:EOLhyphen"/>maining Tru<g ref="char:EOLhyphen"/>ſtees, or any Five of them, or ſuch as they ſhall appoint, may let for one yeer or leſſe, a<g ref="char:EOLhyphen"/>ny of the Pre<g ref="char:EOLhyphen"/>miſſes (out of Leaſe) which are by the Or<g ref="char:EOLhyphen"/>dinance ap<g ref="char:EOLhyphen"/>pointed to bee ſold.</note> Truſtees or any five or more of them, or ſuch per<g ref="char:EOLhyphen"/>ſon or perſons as they or any five or more of them under their hands and ſeales ſhall thereunto appoint and authorize, ſhall have full power and authority to let or ſet for one yeare or leſſe, and ſo from yeare to yeare, or leſſe, before the ſale hereof reſpectively, any of the premiſſes which are appointed to bee ſold by any of the ſaid for<g ref="char:EOLhyphen"/>mer Ordinances now being, or which ſhall be at any time before the ſale thereof reſpectively out of Leaſe, unto ſuch perſons and in ſuch manner; whereby the beſt profits and advantages thereof may bee made as they ſhall thinke fit, the Rents and Profits hereof to bee diſpoſed in ſuch man<g ref="char:EOLhyphen"/>ner as in the ſaid former Ordinances is decla<g ref="char:EOLhyphen"/>red, concerning the other Rents, Profits and Re<g ref="char:EOLhyphen"/>ceipts therein mentioned and contained; Provided alwayes, that ſuch of the ſaid Premiſſes as are <note place="margin">Provided that Copihold Lands be granted by Copy of Court-Roll, and not otherwiſe.</note> grantable by coppy of Court-Roll, according to the cuſtome of any Honour or Manour, and which they have power to Demiſe as is aforeſaid, ſhall be demiſed by the coppy of the Court-Roll reſpectively, and not by any Leaſe at the Common Law. And the ſaid Lords and Commons ta<g ref="char:EOLhyphen"/>king into their conſideration, the paines and good ſervice of the ſaid Sir <hi>Iohn Wollaſton,</hi> and the other remaining Truſtees, for their incouragement therein, doe hereby Ordaine, That the ſaid Sir <hi>Iohn</hi> 
+               <note place="margin">The remaining Truſtees (ex<g ref="char:EOLunhyphen"/>cept the three Treaſurers and the Comptrol<g ref="char:EOLhyphen"/>ler) ſhall have 2000. l. amongſt them.</note> 
+               <hi>Wollaſton</hi> and the other remaining Truſtees, (except the three Treaſurers and the Comptroller, who have a Salary already allowed to them) ſhall have and re<g ref="char:EOLhyphen"/>ceive the Summe of Two thouſand Pounds; That
+<pb n="8" facs="tcp:31433:6"/> is to ſay, one thouſand Pounds thereof at the end of Six Moneths to bee accounted from the afore<g ref="char:EOLhyphen"/>ſaid ninth day of <hi>October,</hi> and the other one thou<g ref="char:EOLhyphen"/>ſand Pounds at the end of Six Moneths after; Which ſaid Summe of Two thouſand Pounds, the aforeſaid Treaſurers, or any Two of them, are hereby authorized and required to pay accordingly unto them or to ſuch perſon or perſons for them as they or the major part of them under their hand-writing ſhal appoint out of ſuch moneys as the ſaid Treaſurers ſhall have received by the Profits or ſale of the Premiſſes. And that the ſaid Sir <hi>Iohn Wollaſton</hi> and the other remaining Truſtees (except <note place="margin">The remaining Truſtees are to divide the 2000. <hi>l</hi> a<g ref="char:EOLhyphen"/>mongſt them as they think fit.</note> ſuch as are before excepted) or the major part of them ſhall diſtribute and diſpoſe of the ſaid Two thouſand Pounds among themſelves by ſuch Pro<g ref="char:EOLhyphen"/>portions and in ſuch manner as they or the major part of them ſhall think fit. Laſtly, the printing of this Ordinance is referred to the Truſtees or the major part of them.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Ioh. Browne, Cleric. Parliamentorum.</item>
+                     <item>H. Elſynge Cler. Parl. Dom. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div n="5 March 1647" type="ordinance">
+            <pb n="9" facs="tcp:31433:6"/>
+            <head>
+               <date>
+                  <hi>Die <g ref="char:V">Ʋ</g>eneris,</hi> 5 <hi>Martii,</hi> 1647.</date>
+            </head>
+            <head type="sub">An Ordinance of the Lords and Commons aſſembled in Parliament, For the bettet Explaining and Execu<g ref="char:EOLhyphen"/>ting of the former Ordinances for the ſale of Biſhops-Lands.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by Ordinance of the Lords and Commons in this pre<g ref="char:EOLhyphen"/>ſent <note place="margin">Recital of the Contractors Inſtructions in the former Or<g ref="char:EOLhyphen"/>dinance of the 16. of <hi>Novemb.</hi> 1646.</note> Parliament Aſſembled, made the ſixteenth day of <hi>November, Anno Dom.</hi> 1646. Among other inſtructions for the Contractors in the ſaid Ordinance named, it is Ordained that the Demeſne Lands of the late Arch-Biſhops and Biſhops ſhall not bee ſold under tenne yeares Pur<g ref="char:EOLhyphen"/>chaſe of the full values they were at in yeare 1641. The ſame rule to bee obſerved proportionably in the ſale of Reverſions expectant upon Eſtates for lives or yeares. The ſaid Lords and Commons <note place="margin">The Contra<g ref="char:EOLhyphen"/>ctors to pro<g ref="char:EOLhyphen"/>ceed to ſale ac<g ref="char:EOLhyphen"/>cording to ſuch particulars as ſhall be delive<g ref="char:EOLhyphen"/>red to them by the Regiſter.</note> doe hereby declare and Ordaine that the ſaid full value upon which the ſaid Contractors ſhall pro<g ref="char:EOLhyphen"/>ceed to ſale, ſhall be according to ſuch particulars as ſhall be made and delivered to the ſaid Contra<g ref="char:EOLhyphen"/>ctors under the hand of <hi>Henry Elſynge</hi> Regiſter in the ſaid Ordinance named, and that ſuch parti<g ref="char:EOLhyphen"/>culars ſo made and delivered to them ſhall be a ſuf<g ref="char:EOLhyphen"/>ficient juſtification for them to proceed to ſale ac<g ref="char:EOLhyphen"/>cordingly.
+<pb n="10" facs="tcp:31433:7"/> And further that the ſaid Regiſter ſhall <note place="margin">And the Regi<g ref="char:EOLhyphen"/>ſter to appoint a Clerk to at<g ref="char:EOLhyphen"/>tend the Con<g ref="char:EOLhyphen"/>tractors. And to enter all Orders.</note> cauſe one faithfull, able and ſufficient Clerke to bee attending on the ſaid Contractors at all their meetings, and to enter all their Orders and pro<g ref="char:EOLhyphen"/>ceedings, and to obſerve and obey all ſuch com<g ref="char:EOLhyphen"/>mands and directions concerning the Premiſſes, as they or any ſix or more of them ſhall direct and appoint. And that the ſaid Bookes of Entries ſhall remaine in the cuſtody of the ſaid Contractors or ſuch of them as they or the major part of them ſhall appoint. Provided that no Copies of the ſaid Entries bee made, had or taken out of the ſaid <note place="margin">No Copies of Entries to be made by any but the Regi<g ref="char:EOLhyphen"/>ſter or his Clerk.</note> Bookes by any others then the ſaid Regiſter or his Deputy, or the ſaid Clerk, who are to have the uſe of them for that purpoſe. And that the ſaid Regiſter and his Deputy and the ſaid Clerke
+<note place="margin">The Oath of the Regiſter &amp; his Deputy and Clerk.</note> ſhall ſeverally and reſpectively take an Oath be<g ref="char:EOLhyphen"/>fore the Truſtees or any three of them, (which they are hereby authorized and required to admi<g ref="char:EOLhyphen"/>niſter to them accordingly) to execute the ſaid re<g ref="char:EOLhyphen"/>ſpective Offices and places according to the Or<g ref="char:EOLhyphen"/>dinances and inſtructions of both Houſes of Parlia<g ref="char:EOLhyphen"/>ment in that behalf made, and not for any feare, favour, malice, or reward to violate the ſaid reſpe<g ref="char:EOLhyphen"/>ctive truſts in them repoſed. And whereas by the afore recited Ordinances, it is Ordained, That the ſaid Contractors ſhall receive two pence in the Pound for every Summe that ſhall bee paid to the Treaſurers upon all and every Contract or Con<g ref="char:EOLhyphen"/>tracts <note place="margin">The Contra<g ref="char:EOLhyphen"/>ctors to have two pence <hi>per</hi> pound for all ſuch Lands as ſhall be Con<g ref="char:EOLhyphen"/>tracted for and ſold.</note> by them made<g ref="char:punc">▪</g> The ſaid Lords and Com<g ref="char:EOLhyphen"/>mons doe hereby Declare and Ordaine, that they ſhall in ſtead thereof, receive two pence in tehe Pound, for all ſuch Lands, Tenements, and Here<g ref="char:EOLhyphen"/>ditaments,
+<pb n="11" facs="tcp:31433:7"/> of the late Arch-Biſhops and Biſhops which ſhall be contracted for, and ſold by them, ac<g ref="char:EOLhyphen"/>cording to the rates for which they ſhall bee ſold. And further the ſaid Lords and Commons doe hereby Declare and Ordaine, That all ſuch who <note place="margin">All perſons which have lent moneys ſhall have like ad<g ref="char:EOLhyphen"/>vantage for all other monyes due by the Or<g ref="char:EOLhyphen"/>dinance as for the monyes lent.</note> have advanced and lent Moneys upon the aforeſaid recited Ordinance, ſhall be allowed and have all the ſame advantages and benefits for and concerning a<g ref="char:EOLhyphen"/>ny Moneys otherwiſe due unto them by the afore recited Ordinance, as fully and amply to all intents and purpoſes whatſoever, as for and concerning any ready Moneys lent and advanced upon the ſaid Or<g ref="char:EOLhyphen"/>dinance.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Joh. Brown Cler. Parliamentorum.</item>
+                     <item>H. Elſynge Cler. Parl. Dom. Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div n="23 August 1647" type="ordinance">
+            <pb n="12" facs="tcp:31433:8"/>
+            <head>
+               <date>
+                  <hi>Diae Lunae</hi> 23. <hi>Auguſt,</hi> 1647.</date>
+            </head>
+            <head type="sub">An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons Aſſembled in Parliament for regulating the ſale of Biſhops Lands, and expediting the Conveyances thereof.</head>
+            <p>BE it Ordered and Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, That whereas in the late Ordinance of Parliament, made the 16. of <hi>Novem<g ref="char:EOLhyphen"/>ber, Anno Dom.</hi> 1646. it is appointed that the Purchaſers of Biſhops Lands ſhal pay the latter moity of Purchaſe money within ſix moneths a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter the ſealing of the Aſſurance; And whereas divers purchaſers have before the ſealing of the aſ<g ref="char:EOLhyphen"/>ſurance obtained the poſſeſſion of the ſaid purchaſed Lands, Tenements, or Hereditaments, in all ſuch caſes the ſaid ſix moneths wherein the latter moyety of the Purchaſe mo<g ref="char:EOLhyphen"/>ney ought to be payed, ſhall be reckoned from the time of the Contract, and not from the ſealing of the Aſſurance; and that in lieu thereof the Purchaſer ſhall have and in<g ref="char:EOLhyphen"/>joy all the meane profits which he hath had, or received in the meane time; And that the Treaſurers for Biſhops Lands ſhall allow, and rebate to any Purchaſer, who hath any money due by the ſaid Ordinance, the intereſt which ſhall be due unto him, together with the principall, the ſame to be defaulked at the times of payment of his Pur<g ref="char:EOLhyphen"/>chaſe money; and that all Aſſignes of any monies due by the ſaid Ordinance, may defalke the ſame upon Purchaſers in like manner as the lenders themſelves might doe. And the Contractors, Truſtees, Treaſurers, and all others im<g ref="char:EOLhyphen"/>ployed in the ſale of Biſhops Lands, are hereby required, and enjoyned to perfect and ſeale the reſpective Convey<g ref="char:EOLhyphen"/>ances or Aſſurances with all poſſible expedition.</p>
+            <closer>
+               <signed>Jo. Browne Cler. Parliament.</signed>
+            </closer>
+            <pb facs="tcp:31433:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
